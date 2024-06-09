@@ -1,16 +1,16 @@
 {
-  "name": "PRINCE-BOT",
-  "description": "Prince MD A WhatsApp User BOT",
+  "name": "ELO-BOT",
+  "description": "Elo-bot MD A WhatsApp User BOT",
   "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
+  "repository": "https://github.com/Elohime7/elo-bot-whatsapp",
   
   "stack": "container",
   "env": {
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince;923092668108;GDS"
+      "value": "243980635216;Gohime;243980635216;GDS"
 
      },
       "DATABASE_URL": {
@@ -36,7 +36,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "-"
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ-ᴘʀɪɴᴄᴇ-ᴍᴅ-ʙᴏᴛ"
+      "value": Elo-Bot"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -56,12 +56,12 @@
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
