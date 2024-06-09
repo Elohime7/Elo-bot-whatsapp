@@ -26,12 +26,12 @@
      "HKEY": {
       "description": "Put your Heroku API key Here",
       "required": true,
-      "value": ""
+      "value": "HRKU-eeee37f7-0323-482c-acf8-10b9af6745e4"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "gonet37"
        },
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": Elo-Bot"
+      "value": "Elo-Bot"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -66,7 +66,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0lhSTNmVXBVdXA4NGVLY1c5YUNFaDdXQk8rQW9WWHc3RHJ3cDkyQlVtVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTFFxZEZ6T211LzJtQkdlZU40YzN1ejNnUzBVUHFOZ00rakhkK1Z1K1BUMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRTDAxdzZlV0MrajRvbFNIbkQxZEJpV3NoekZJVW9CbUZoUGEva2ZwdFgwPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJydUhJT2NqMWRUR2g4aStreDBIU1FCMUtpS2Vlb0ZVcnY5NXF1S1hRRHcwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFDSWZaV2ovZTVYbUp6QmlKdk1lUTJTTytBRCtZNmh0NDRwRlZNYVdFWDQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjU5ZHB4emtNenJraTBGWXh1YllNU2FRN0pFbUZMSndacDIzWjUySlN6UWs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSU1aSEZRRW5nc1MwSUZIck9Ld3R0ZWkveEJ6bjRhWUIyTWtmMEZTWFdXaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmh3a1BOTmpxUEZzM0V3R1RMRStqamZ2ZDQ1YVNSM2Fmb2tqUWZTVEwzUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZuRTdCSGFSVW1YWkMxN1RiNXFlZm5UUi9LT2NUR1huVm5xRFd1UzlaRk8xdklVL2tmS2owbXhTMWQvZ003WjFaVmprR1lNOVgvS0RxazhmUnZXVEN3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTYsImFkdlNlY3JldEtleSI6IkpkaVF3dUxpalZIU0R3QnA0QzZWS1NQS1I1NmZCYVZ5dmZSVi9jU3hmWDQ9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InBVWVJiVC1kVG9pSWtiY1pjb0RYdXciLCJwaG9uZUlkIjoiNGEzZjkxZDItZjlmMy00ZTdiLWE2ZTMtMjFlYThmZjVjOTY5IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImczdGxTUkVMN3VVd0FMMGh2aTFKWlNxV2pmTT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVU2NVRTk2VVYwUTZ5UFJZdXJuckhrd0ZaSEE9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiTDM3RERHR1MiLCJtZSI6eyJpZCI6IjI0MzgzNTE1NDIwNToxQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IkFubmFiZWxsZSJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTEsxM1pzRUVLYVZrN01HR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiYjZ4MENyT25DUXZmOVFjQzNKZndLRzFnTEg0V3VnU0FMSVFkdHZ6UWdGTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoibGV1WElBN2NoQ2d2a1lla0pUUEVubk0zNGpIRVpHNjhSRWViUmp1WWhYZUhwd3cwK1g1Z01jODVuNWdkVWQ1UGd5VkZkdGhGVzdKVDU4aEpoK0tURHc9PSIsImRldmljZVNpZ25hdHVyZSI6InRQNThyWVlJUXpsbnZFWDJsaWNoUU9mNjJpZFdYS3gxU2JtblMrVDY5VHFadFlyWTlhS1FOOERRWUNJWkd6NkZJV2dTbVVUY2gyVmdnak5DNVhtUEFBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjQzODM1MTU0MjA1OjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVytzZEFxenB3a0wzL1VIQXR5WDhDaHRZQ3grRnJvRWdDeUVIYmI4MElCVCJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNzg4MTUxNX0="
     }
     
    
