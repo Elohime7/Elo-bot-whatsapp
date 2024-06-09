@@ -29,7 +29,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌global.pairingNumber = "243835154205" //put your bot number here💌
 global.mods = ['243835154205'] 
 global.prems = ['243835154205']
-global.allowed = ['243980635216']
+global.allowed = ['243835154205']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
